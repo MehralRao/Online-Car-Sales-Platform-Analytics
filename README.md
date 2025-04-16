@@ -20,7 +20,7 @@ This is an end-to-end data analysis project that transforms a raw vehicle manufa
 
 ## 🚀 How to Use
 1. Clone the repo or download files
-2. Run the preprocessing Python script to clean the data
+2. Review the cleaned dataset in the `dataset/` folder
 3. Open the `.pbix` file in Power BI Desktop to explore the dashboard
 
 ## 📬 Contact
